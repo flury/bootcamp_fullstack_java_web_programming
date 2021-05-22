@@ -1,0 +1,54 @@
+
+-----------------------------------------------
+Bootcamp Fullstack Java Web Programming
+-----------------------------------------------
+
+Goals :
+- Bisa membuat Web Application
+- Bisa coding Fullstack Web Programming
+
+
+Rule :
+- Setiap member akan coding sesuai dengan materi yang diberikan
+- Durasi pelatihan = 2 - 3 jam
+
+
+Course :
+1. Front End Layer
+	1.1. HTML
+	1.2. CSS
+	1.3. Javascript
+	1.4. Bootstrap
+2. Core Layer
+	2.1. Java Web Application
+	2.2. Spring MVC Framework
+3. Backend Layer
+	3.1 MYSQL
+
+--------------------------------------------------------------------------------
+
+Pertemuan 1
+--------------------------
+
+- Training Rule
+- Tools Preparation
+	# Download & Install
+	- Java JDK 1.8 or Higher
+	- Eclipse new version
+	- Notepad++
+	- Git Application
+	
+	# Buat Akun Git
+	- Create Git Account
+		> https://github.com/
+		
+	# Share Account Git:
+	- Wahid Kamarullah : https://github.com/flury
+	- Yoga Febriatala : https://github.com/yogafebriatala24
+	- Cessy Zulma : https://github.com/cessyzulma
+	
+	
+	
+
+
+EOF.
