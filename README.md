@@ -1,2 +1,8 @@
-# bootcamp_fullstack_java_web_programming
-Bootcamp Fullstack Java Web Programming
+# Bootcamp Fullstack Java Web Programming
+---------------------------------------------------
+
+- Pertemuan_01 : Preparation Tools & Github introduction
+- Pertemuan_02 : HTML Introduction
+
+Best Regards,
+EOF.
