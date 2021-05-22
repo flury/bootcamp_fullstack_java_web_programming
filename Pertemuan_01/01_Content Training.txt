@@ -48,6 +48,15 @@ Pertemuan 1
 	- Cessy Zulma : https://github.com/cessyzulma
 	
 	
+- Perintah-Perintah Umum Git
+-----------------------------
+1. git status						: untuk cek status file yg ditambahkan atau dimodifikasi
+2. git add nama_file				: untuk mendaftarkan file yg siap untuk di commit
+3. git commit -m "pesan commit"		: untuk mendaftarkan file yg sudah di add utk siap di push
+4. git push							: untuk mendaftarkan file yg sudah di commit untuk dikirim ke server atau repository
+5. git pull							: untuk download file yg ada di repository
+6. git clone url_repository			: untuk memindahkan repository server ke local drive.
+	
 	
 
 
